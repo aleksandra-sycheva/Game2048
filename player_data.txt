@@ -1,0 +1,7 @@
+user,4816
+userq,2396
+player,5540
+player 2,3156
+player3,3112
+player 4,1436
+user2,0
