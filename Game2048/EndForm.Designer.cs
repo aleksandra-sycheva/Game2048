@@ -137,9 +137,10 @@
             textBoxBestScore.Multiline = true;
             textBoxBestScore.Name = "textBoxBestScore";
             textBoxBestScore.ReadOnly = true;
+            textBoxBestScore.RightToLeft = RightToLeft.No;
             textBoxBestScore.ShortcutsEnabled = false;
             textBoxBestScore.Size = new Size(456, 46);
-            textBoxBestScore.TabIndex = 13;
+            textBoxBestScore.TabIndex = 9;
             textBoxBestScore.TabStop = false;
             textBoxBestScore.TextAlign = HorizontalAlignment.Center;
             // 
